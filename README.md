@@ -9,10 +9,10 @@ I'm currently contracting and working on client projects at my company [yawt.dig
 
 ## ⚡ Experience
 
-Somewhat full-stack although I very much feel more comfortable hidden in the backend. This is what I love working with:
+I'm very comfortable working across the entire stack (Frontend & Backend). This is what I love working with:
 
 - [Laravel](https://laravel.com/)
-- [NuxtJS](https://nuxtjs.com/)
+- [NuxtJS](https://nuxtjs.org/)
 
 ## Let's chat
 
