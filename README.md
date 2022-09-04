@@ -21,13 +21,4 @@ I'll get your DM on [Twitter](https://twitter.com/mwikala_) but if you want to e
 If it's business related you can reach me at [mwikala@yawt.digital](mailto:mwikala@yawt.digital).
 
 ---
-
-<a href="https://discord.com/users/705665813994012695">
-  <img src="https://lanyard-profile-readme.vercel.app/api/159790947490594816?hideTimestamp=true&idleMessage=Idiling..."/>
-</a>
-
-![streaksimg](https://github-readme-streak-stats.herokuapp.com/?user=mwikala&theme=dark)
-
-
-\
 [![Hits](https://hits.link/hits?url=https://github.com/mwikala&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
