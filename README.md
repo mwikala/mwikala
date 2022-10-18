@@ -19,7 +19,3 @@ I'm very comfortable working across the entire stack (Frontend & Backend). This 
 I'll get your DM on [Twitter](https://twitter.com/mwikala_) but if you want to email me, you can reach me at [hello@mwikala.co.uk](mailto:hello@mwikala.co.uk).
 
 If it's business related you can reach me at [mwikala@yawt.digital](mailto:mwikala@yawt.digital).
-
----
-<!-- [![Hits](https://hits.link/hits?url=https://github.com/mwikala&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link) -->
-[![HitCount](https://hits.dwyl.com/mwikala/mwikala/mwikala.svg?style=flat-square)](http://hits.dwyl.com/mwikala/mwikala/mwikala)
