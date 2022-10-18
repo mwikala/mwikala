@@ -21,4 +21,5 @@ I'll get your DM on [Twitter](https://twitter.com/mwikala_) but if you want to e
 If it's business related you can reach me at [mwikala@yawt.digital](mailto:mwikala@yawt.digital).
 
 ---
-[![Hits](https://hits.link/hits?url=https://github.com/mwikala&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
+<!-- [![Hits](https://hits.link/hits?url=https://github.com/mwikala&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link) -->
+[![HitCount](https://hits.dwyl.com/mwikala/mwikala/mwikala.svg?style=flat-square)](http://hits.dwyl.com/mwikala/mwikala/mwikala)
