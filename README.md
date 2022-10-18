@@ -1,6 +1,6 @@
 ### Hey, I'm Mwikala 👋
 
-I'm a 20 year old developer.
+I'm a 21 year old developer.
 
 
 ## ⚓ Currently
