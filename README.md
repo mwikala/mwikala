@@ -13,8 +13,8 @@ I'm very comfortable working across the entire stack (Frontend & Backend). This 
 
 - [Laravel](https://laravel.com/)
 - [Inertia.js](https://inertiajs.com/)
-- [Nuxt.js](https://nuxtjs.org/)
-- [Next.js](https://nextjs.org/)
+- [Nuxt.js - Vue](https://nuxtjs.org/)
+- [Next.js - React](https://nextjs.org/)
 
 ## Let's chat
 
