@@ -12,7 +12,9 @@ I'm currently contracting and working on client projects at my company [yawt.dig
 I'm very comfortable working across the entire stack (Frontend & Backend). This is what I love working with:
 
 - [Laravel](https://laravel.com/)
-- [NuxtJS](https://nuxtjs.org/)
+- [Inertia.js](https://inertiajs.com/)
+- [Nuxt.js](https://nuxtjs.org/)
+- [Next.js](https://nextjs.org/)
 
 ## Let's chat
 
