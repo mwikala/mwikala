@@ -5,7 +5,7 @@ I'm a 21 year old developer.
 
 ## ⚓ Currently
 
-I'm currently contracting and working on client projects at my company [yawt.digital](https://yawt.digital) - we're a small husband and wife team helping businsess realise their digital ideas.
+I'm currently contracting and working on client projects at my company [yawt.digital](https://yawt.digital) - we're a software development agency helping businsess realise their digital ideas.
 
 ## ⚡ Experience
 
@@ -15,6 +15,7 @@ I'm very comfortable working across the entire stack (Frontend & Backend). This 
 - [Inertia.js](https://inertiajs.com/)
 - [Nuxt.js - Vue](https://nuxtjs.org/)
 - [Next.js - React](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Let's chat
 
