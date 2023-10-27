@@ -1,15 +1,15 @@
 ### Hey, I'm Mwikala 👋
 
-I'm a 22 year old developer.
+I'm a UK based Full-Stack Developer helping businesses turn their ideas into reality @ [yawt.digital](https://yawt.digital).
 
 
 ## ⚓ Currently
 
-I'm currently contracting and working on client projects at my company [yawt.digital](https://yawt.digital) - we're a software development agency helping businsess realise their digital ideas.
+For the foreseeable, I am focused primiarly on consulting but have availability for other projects/work all throughout the year.
 
-## ⚡ Experience
+## ⚡ Using
 
-I'm very comfortable working across the entire stack (Frontend & Backend). This is what I love working with:
+This what I use to get stuff done. A full list including peripherals and other software, is available [here](https://mwikala.co.uk/blog/3-the-perfect-stack-2022).
 
 - [Laravel](https://laravel.com/)
 - [Inertia.js](https://inertiajs.com/)
