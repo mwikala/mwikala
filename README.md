@@ -5,7 +5,7 @@ I'm a UK based Full-Stack Developer helping businesses turn their ideas into rea
 
 ## ⚓ Currently
 
-For the foreseeable, I am focused primiarly on consulting but have availability for other projects/work all throughout the year.
+For the foreseeable, I am focused primarily on consulting but have availability for other projects/work all throughout the year.
 
 ## ⚡ Using
 
