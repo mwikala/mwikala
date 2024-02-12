@@ -13,6 +13,5 @@ This what I use to get stuff done. A full list including peripherals and other s
 
 - [Laravel](https://laravel.com/)
 - [Inertia.js](https://inertiajs.com/)
-- [Nuxt.js - Vue](https://nuxtjs.org/)
 - [Next.js - React](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
